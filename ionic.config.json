@@ -1,0 +1,7 @@
+{
+  "name": "Avaliação_PDM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
